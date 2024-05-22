@@ -23,7 +23,7 @@ shifts, eg can shift +3 along the alphabet or -3 along the alphabet
 
 ### Look out for
 
-The shift applies to the decoded message, so supplying the decoded message would mean your shift would be reversed!
+The shift applies to the decoded message, so supplying the encoded message would mean your shift would be reversed!
 encoded `Khoor` with a shift key of `3` means you'll have to go DOWN the alphabet 3...
 
 Keep case sensitivity - capitals stay capitals and lowercase stays lowercase
